@@ -81,6 +81,7 @@ public class ECommerceDay3 {
 	{
 		report.endTest(test);
 		report.flush();
+		driver.quit();
 	}
 
 
