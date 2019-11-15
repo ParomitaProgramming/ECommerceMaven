@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/User/.m2/repository/org/hamcrest/hamcrest-core/2.2/hamcrest-core-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/.m2/repository/io/cucumber/gherkin/5.1.0/gherkin-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/.m2/repository/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/.m2/repository/info/cukes/cucumber-html/0.2.6/cucumber-html-0.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/.m2/repository/info/cukes/cucumber-java/1.2.5/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/.m2/repository/info/cukes/cucumber-jvm-deps/1.0.5/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/.m2/repository/info/cukes/cucumber-testng/1.2.5/cucumber-testng-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/.m2/repository/info/cukes/gherkin/2.12.2/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/.m2/repository/info/cukes/cucumber-junit/1.1.2/cucumber-junit-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Jars/selenium-server-standalone-2.7.0-patched-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Jars/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Jars/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Jars/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Jars/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Jars/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Jars/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Jars/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
